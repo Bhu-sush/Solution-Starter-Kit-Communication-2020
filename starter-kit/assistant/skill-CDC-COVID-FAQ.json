@@ -25,36 +25,6 @@
       "description": "Answer how the name for this virus and disease arose."
     },
     {
-      "intent": "HandwashingTips",
-      "examples": [
-        {
-          "text": "should i keep washing my hands"
-        },
-        {
-          "text": "Should I use soap and water or a hand sanitizer to protect against COVID-19?"
-        },
-        {
-          "text": "how do i wash my hands correctly?"
-        },
-        {
-          "text": "will frequent handwashing help?"
-        },
-        {
-          "text": "will washing my hands help protect me?"
-        },
-        {
-          "text": "handwashing products"
-        },
-        {
-          "text": "Handwashing tips"
-        },
-        {
-          "text": "is hand sanitizer effective against covid-19?"
-        }
-      ],
-      "description": "Hand Washing Guidance"
-    },
-    {
       "intent": "News_Corona_Virus",
       "examples": [
         {
